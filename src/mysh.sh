@@ -12,6 +12,7 @@ echo "testb1=$testb1 ##"
 echo "testc=$testc ##"
 echo "testd=$testd ##"
 
+#  too
 echo "too_c=$too_c ##"
 echo "too_d=$too_d ##"
 
