@@ -10,7 +10,7 @@ echo "testb=$testb ##"
 echo "testc=$testc ##"
 echo "testd=$testd ##"
 
-#from too
+#from depent too
 echo "too_c=$too_c ##"
 echo "too_d=$too_d ##"
 
